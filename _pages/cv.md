@@ -17,7 +17,7 @@ description: List of developer work by language or domain
   - [project_euler](https://github.com/wnormandin/project_euler "project_euler"): repository with Python 2 solutions to [projecteuler.net](https://projecteuler.net/) problems
 
 #### Web
-  - (https://pokeybill.us "The PokeyDex") : project development notes, release news, and other information in my personal blog site
+  - [https://pokeybill.us](https://pokeybill.us "The PokeyDex") : project development notes, release news, and other information in my personal blog site
     - 2016 - present
   - http://yearofthestallion.com : webmaster and WordPress site designer
     - June 2010 - December 2014
