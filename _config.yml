@@ -13,6 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   abilities, style, and behaviors.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://portfolio.pokeybill.us" # the base hostname & protocol for your site
+include: ['_pages']
 
 # Social media
 twitter_username: pokeybill
