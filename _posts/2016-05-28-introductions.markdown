@@ -11,9 +11,9 @@ My experience began in middle school, with GW Basic and basic input/output and l
 
 Following college, I continued to grow learning Visual Basic and doing work in VBA automation, Access front end development, SQL server, and ultimately being responsible for the server room upgrade of a small office (50 workstations).  
 
-Most recently, I have moved into the open source realm, working in Linux web hosting offering support on common Website and web server issues.  I have developed a healthy passion for the Python programming language, and it is largely the focus of my recent efforts.  I have designed Gtk windowed applications, Django websites, terminal applications, daemons, and many other utilities all through the magic of Python.
+Most recently, I have moved into the open source realm, working in Linux web hosting offering support on common Website and web server issues.  I have developed a healthy passion for the Python programming language, and it is largely the focus of my recent efforts.  Projects have included Gtk windowed application interfaces, Django websites, terminal applications, and etc.
 
-In my primary employment, I work on CentOS servers, using Bash extensively and offering support on e-mail, FTP, SSH, MySQL, cPanel, WHM, and other common hosting technologies.  This has caused a regrowth in my love of Bash, which I initially learned in college.
+In my primary employment, I work on CentOS servers, using Bash extensively and offering support on e-mail, FTP, SSH, MySQL, cPanel, WHM, and other common hosting technologies.  This has caused a regrowth in my love of Bash, which I initially learned in college, along with valuable experience in the Linux system administration world.
 
 Check out my [Curriculum Vitae][cv] for examples of my recent projects, websites, and efforts.
 
