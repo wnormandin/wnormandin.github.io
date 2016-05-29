@@ -9,7 +9,7 @@ This site is intended to showcase various projects which I have participated in 
 
 My experience began in middle school, with GW Basic and basic input/output and lead to attending UT Dallas with the intent to complete a degree in Computer Science.  During this time I studied C++, assembly, and many other technologies.  While I did not graduate, I left on good terms with the intent to complete my education when possible.
 
-Following college, I continued to grow learning Visual Basic and doing work in VBA automation, Access front end development, SQL server, and other technologies, ultimately being responsible for the server room upgrade of a small office (50 workstations).  
+Following college, I continued to grow learning Visual Basic and doing work in VBA automation, Access front end development, SQL server, and ultimately being responsible for the server room upgrade of a small office (50 workstations).  
 
 Most recently, I have moved into the open source realm, working in Linux web hosting offering support on common Website and web server issues.  I have developed a healthy passion for the Python programming language, and it is largely the focus of my recent efforts.  I have designed Gtk windowed applications, Django websites, terminal applications using websockets, daemons, and many other utilities all through the magic of Python.
 
