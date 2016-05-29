@@ -4,6 +4,7 @@ title:  "Introductions"
 date:   2016-05-28 11:01:33 -0400
 categories: update
 ---
+
 This site is intended to showcase various projects which I have participated in or created on my own.  Some of these will be works in progress, but should serve to showcase my style and abilities along with demonstrating approaches to common problems faced in software development.
 
 My experience began in middle school, with GW Basic and basic input/output and lead to attending UT Dallas with the intent to complete a degree in Computer Science.  During this time I studied C++, assembly, and many other technologies.  While I did not graduate, I left on good terms with the intent to complete my education when possible.
