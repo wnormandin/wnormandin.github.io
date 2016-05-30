@@ -18,9 +18,17 @@ description: List of developer work by language or domain
   - [network_tools](https://github.com/wnormandin/network_tools "network_tools"): repository containing a number of network related tools
     - included in the [resources](https://github.com/wnormandin/resources) tool repository
   - [project_euler](https://github.com/wnormandin/project_euler "project_euler"): repository with Python 2 solutions to [projecteuler.net](https://projecteuler.net/) problems
+  - [prorate_thing](https://github.com/wnormandin/prorate_thing) : a command-line prorate tool which supports both interactive and command-line argument invocation.
+  - [pokeygame](https://github.com/wnormandin/pokeygame): a set of classes intended as a console-game framework, will integrate with the [passages-django](https://github.com/wnormandin/passages_django) project to provide a console game over websockets.
 
 #### Web
   - [https://pokeybill.us](https://pokeybill.us "The PokeyDex") : project development notes, release news, and other information in my personal blog site
     - 2016 - present
   - http://yearofthestallion.com : webmaster and WordPress site designer
     - June 2010 - December 2014
+
+#### EAS (Succulents) Arduino Automated Watering System
+    - Crafted with modular soil hygrometers, which were programmable per-block of similar plants.
+    - Used in succulent propagation to actively measure soil moisture levels
+    - Capable of automatically dispensing water (optionally with fertilizer) from two reservoirs
+    - Alerts for soil dryness (below custom threshold), reservoir levels
