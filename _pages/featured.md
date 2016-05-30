@@ -3,7 +3,6 @@ layout: page
 title: Featured
 permalink: /featured/
 ---
-## Featured Projects
 [PokeyTools](https://github.com/wnormandin/pokeytools){:target='_blank'} - PokeyTools is a suite of tools providing convenient access to DNS, Whois, SSL, and other web protocol lookups.  It also contains functionality allowing the creation, deduplication, and searching of a predefined library, such as e-mail replies, code snippets or scripts, licensing information, and etc.  Additional functionalities exist as well.
 
 [dedupe.py](https://github.com/wnormandin/pokeytools/blob/master/lib/dedupe.py){:target='_blank'} - `dedupe.py` is a tool within PokeyTools which uses various fuzzy matching algorithms (Levenshtein, Jaro, Jaro-Winkler, and Hamming distances, along with other ratios) to create a composite score according to a global `PARAM` model.
