@@ -9,8 +9,7 @@
 title: wnormandin's Developer Profile
 email: bill@pokeybill.us
 description: > # this means to ignore newlines until "baseurl:"
-  Portfolio site with links and descriptions of various projects, 
-  check out the featured project list.
+  Check out the Featured project list
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://portfolio.pokeybill.us" # the base hostname & protocol for your site
 include: ['_pages']
