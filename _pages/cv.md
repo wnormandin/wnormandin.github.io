@@ -9,6 +9,9 @@ description: List of developer work by language or domain
 #### Python
   - [pokeyworks](https://github.com/wnormandin/pokeyworks "pokeyworks"): personal project framework containing several convenient objects
     - since 2015
+  - [pokeytools](https://github.com/wnormandin/pokeytools "pokeytools"): a web administrator utility built with a Gtk 3.0 GUI providing easy access to DNS, SSL, WHOIS, and other web protocol checks.
+    - Integrates with LibPurple (Pidgin, Finch)
+    - contains [dedupe.py](https://github.com/wnormandin/pokeytools/blob/master/lib/dedupe.py), a fuzzy matching tool implementing several algorithms and used for searching and deduplication
   - [hosting_tools](https://github.com/wnormandin/hosting_tools "hosting_tools"): repository containing website hosting utilities
     - centered around the [PokeyHost](https://github.com/wnormandin/hosting_tools/blob/master/pokeyhost.py "pokeyhost.py") class, which gathers information from a WHM/cPanel server
   - [social_media_bots](https://github.com/wnormandin/social_media_bots "social_media_bots"): repository containing social media bot classes
