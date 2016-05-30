@@ -27,7 +27,8 @@ description: List of developer work by language or domain
   - http://yearofthestallion.com : webmaster and WordPress site designer
     - June 2010 - December 2014
 
-#### EAS (Succulents) Arduino Automated Watering System
+#### Arduino
+  - Automated Watering System
     - Crafted with modular soil hygrometers, which were programmable per-block of similar plants.
     - Used in succulent propagation to actively measure soil moisture levels
     - Capable of automatically dispensing water (optionally with fertilizer) from two reservoirs
