@@ -7,6 +7,8 @@ description: List of developer work by language or domain
 ### List of projects by language or domain
 
 #### Python
+  - [pokeycrawl](https://github.com/wnormandin/pokeycrawl "pokeycrawl"): a fully-featured python webcrawler available on PyPi
+  - [activity_tracker](https://github.com/wnormandin/activity_tracker "activity_tracker"): a system for tracking activites and time management for use with disparate ticket software.
   - [pokeyworks](https://github.com/wnormandin/pokeyworks "pokeyworks"): personal project framework containing several convenient objects
     - since 2015
   - [pokeytools](https://github.com/wnormandin/pokeytools "pokeytools"): a web administrator utility built with a Gtk 3.0 GUI providing easy access to DNS, SSL, WHOIS, and other web protocol checks.
