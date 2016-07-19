@@ -23,6 +23,11 @@ categories: update
   - Domain migrations (from WorkGroups) Windows 7 & 8, Server 2008 & 2012
   - Intranet management using IIS 6.0 (and later 7.0)
   - Workstation setup and maintenance
+  - Hyper-V deployment and management
+  - Domain controller configuration and management
+    - GPO design and deployment
+    - Active Directory management
+    - DNS configuration
 
 #### IT Professional (2 years)
   - Printer, Scanner, and limited copy machine setup and maintenance
@@ -31,11 +36,6 @@ categories: update
     - failed HDD recovery
     - Malware removal
   - Office365 administration (website and PowerShell)
-  - Hyper-V deployment and management
-  - Domain controller configuration and management
-    - GPO design and deployment
-    - Active Directory management
-    - DNS configuration
   - Disaster recovery operations
     - Amazon JungleDisk
     - CDP/R1Soft (web)
