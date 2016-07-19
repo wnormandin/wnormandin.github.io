@@ -19,7 +19,7 @@ categories: update
   - IPtables, CSF, and APF firewall administration
   - Networking configuration
 
-#### Windows Administrator (3 years)
+#### Windows Administration (3 years)
   - Domain migrations (from WorkGroups) Windows 7 & 8, Server 2008 & 2012
   - Intranet management using IIS 6.0 (and later 7.0)
   - Workstation setup and maintenance
