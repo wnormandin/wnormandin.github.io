@@ -4,10 +4,9 @@ title:  "Introduction"
 date:   2016-05-28 11:01:33 -0400
 categories: update
 ---
+#### My Experience, by technology:
 
-My Experience, by technology:
-
-Linux Administration (3 years)
+#### Linux Administration (3 years)
   - Primary operating system used at home and work (CentOS, Debian, Archlinux)
   - Root access to thousands of servers for several Endurance Intl (EIGI) companies
   - cPanel/WHM Server administration experience (2 years)
@@ -20,12 +19,12 @@ Linux Administration (3 years)
   - IPtables, CSF, and APF firewall administration
   - Networking configuration
 
-Windows Administrator (3 years)
+#### Windows Administrator (3 years)
   - Domain migrations (from WorkGroups) Windows 7 & 8, Server 2008 & 2012
   - Intranet management using IIS 6.0 (and later 7.0)
   - Workstation setup and maintenance
 
-IT Professional (2 years)
+#### IT Professional (2 years)
   - Printer, Scanner, and limited copy machine setup and maintenance
   - Workstation provisioning
   - General Software/Hardware troubleshooting
@@ -45,7 +44,7 @@ IT Professional (2 years)
     - Sucuri
     - Symantec Endpoint Solutions
 
-DC Operations (2 years)
+#### DC Operations (2 years)
   - rack setup
     - cable management
     - server, SAN, and other rack component installation
@@ -58,7 +57,7 @@ DC Operations (2 years)
     - SpiceWorks
     - Zabbix
 
-Python Developer (2 years)
+#### Python Developer (2 years)
   - GUI design using gi.repository.Gtk
   - Console applications using curses
   - Basic Python CGI and Django websites
@@ -71,7 +70,7 @@ Python Developer (2 years)
     - CLI activity tracking utility for use with multiple disparate ticket systems
   - Hosting environment monitors with early alert systems for various common problems (access_log analysis, e-mail bounceback alerts, HTTP error alerts, PHP and other script errors)
   
-MSSQL DBA and Full-Stack Developer (2 years)
+#### MSSQL DBA and Full-Stack Developer (2 years)
   - Developed Visual Basic for Applications (VBA) automation solutions integrating Excel, Word, Mail Merges, PDF generation, data warehousing, inventory divestment processing, and more.
   - Schema and software architecture design, diagrams using Visio and Draw.io
   - Design and deployment of a database and custom CRM solution using MSSQL 2008 R2, Sybase AdvantageDB, VBScript, VBA, Access 2012, and Python 2.7
@@ -79,7 +78,7 @@ MSSQL DBA and Full-Stack Developer (2 years)
   - Data Deduplication using Fuzzy matching algorithms
     - record linkage & elimination methods
 
-Webmaster (5 years)
+#### Webmaster (5 years)
   - more than 5 years experience administering WordPress sites
     - child theme design
     - custom PHP dashboards
