@@ -91,7 +91,7 @@ categories: update
     - Exim/Dovecot
     - Office365
 
-Check out my [Featured][fp] projects for examples of my recent works.  For a full list of efforts, see my [Curriculum Vitae][cv] (includes works in progress).
+Check out my [Featured][fp] projects, for a full list of recent programming efforts, see my [Curriculum Vitae][cv] (includes works in progress).
 
 [fp]: http://portfolio.pokeybill.us/featured/
 [cv]: http://portfolio.pokeybill.us/cv/
