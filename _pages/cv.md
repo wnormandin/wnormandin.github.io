@@ -7,6 +7,10 @@ description: List of developer work by language or domain
 ### List of projects by language or domain
 
 #### Python
+  - [pdispatch](https://github.com/wnormandin/pdispatch): an ssh client and server with reverse shell capabilities
+  - [pokeysniff](https://github.com/wnormandin/pokeysniff): a simple packet sniffer in Python 3
+  - [pokeyscan](https://github.com/wnormandin/pokeyscan): a simple port scanner in Python 3
+  - [pokeyproxy](https://github.com/wnormandin/pokeyproxy): a basic Python 3 TCP proxy
   - [pokeycrawl](https://github.com/wnormandin/pokeycrawl "pokeycrawl"): a fully-featured python webcrawler available on PyPi
   - [activity_tracker](https://github.com/wnormandin/activity_tracker "activity_tracker"): a system for tracking activites and time management for use with disparate ticket software.
   - [pokeyworks](https://github.com/wnormandin/pokeyworks "pokeyworks"): personal project framework containing several convenient objects
