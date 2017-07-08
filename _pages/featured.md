@@ -3,7 +3,7 @@ layout: page
 title: Featured
 permalink: /featured/
 ---
-[PokeyDispatch](https://github.com/wnormandin/pokeydispatch){:target='_blank'} - PokeyDispatch is a multifaceted SSH client/server which uses Python 3 and paramiko.  The basic client allows running remote commands across a list of servers, and will soon support a fully interactive mode.  Using --server, an SSH server can be set up which accepts a connection from a client instance (on, say, a Windows PC w/o SSH) and then functions as a reverse shell.
+[PokeyDispatch](https://github.com/wnormandin/pdispatch){:target='_blank'} - PokeyDispatch is a multifaceted SSH client/server which uses Python 3 and paramiko.  The basic client allows running remote commands across a list of servers, and will soon support a fully interactive mode.  Using --server, an SSH server can be set up which accepts a connection from a client instance (on, say, a Windows PC w/o SSH) and then functions as a reverse shell.
 
 [PokeyScan](https://github.com/wnormandin/pokeyscan){:target='_blank'} - PokeyScan is a simple, multithreaded port scanner  which provides some flexibility via command line arguments.
 
